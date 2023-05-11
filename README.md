@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba
+Proyecto de prueba de repositorio
